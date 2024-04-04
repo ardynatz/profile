@@ -26,8 +26,7 @@ const HomePage = () => {
           <div className="max-w-3xl mx-auto p-4">
             <div className="flex flex-row justify-center items-center">
               <h1 className="relative z-20 text-2xl md:text-6xl bg-clip-text text-transparent bg-gradient-to-b from-zinc-100 to-zinc-500 text-center font-sans font-bold">
-                Oops!&nbsp;
-                <span className="italic">ardy.lol</span>
+                Comingsoon
               </h1>
             </div>
             <p className="text-zinc-400 max-w-lg mx-auto my-2 text-sm text-center relative z-30">
